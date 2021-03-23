@@ -13,7 +13,7 @@ include 'includes/metadata.php';
   <body>
    <?php include 'includes/header.php';?>
 
-    <!-- MAIN CONTENT -->
+    <!-- MAIN CONTENT0000 -->
     <main>
     <img src="img/mainfood.jpg" alt="img" style="width:100%;">
     </main>
